@@ -1,7 +1,5 @@
 ### Hi there
 
-[![Mehil's github stats](https://github-readme-stats.vercel.app/api?username=mehilshah6&show_icons=true)]()
-
 I currently work at Accenture India, as Software Engineer - Backend.
 
 I am a B.Tech Computer Science graduate from Manipal University Jaipur and have previously worked as a Research Intern at ISRO, as a part of Communication Systems Group under Dr. Yogesh Prasad. I have experience working with different languages and frameworks and I am always looking to learn something new and work on new projects in my free time.
