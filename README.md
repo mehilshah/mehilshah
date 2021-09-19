@@ -1,6 +1,6 @@
 ### Hi there
 
-[![Mehil's github stats](https://github-readme-stats.vercel.app/api?username=mehilshah6&show_icons=true&theme=radical)]()
+[![Mehil's github stats](https://github-readme-stats.vercel.app/api?username=mehilshah6&show_icons=true)]()
 
 I currently work at Accenture India, as Software Engineer - Backend.
 
