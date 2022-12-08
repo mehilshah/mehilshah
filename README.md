@@ -1,9 +1,5 @@
 ### Hi there
 
-I currently work at Accenture India, as Software Engineer - Backend.
+My name is Mehil Shah, and I’m a PhD Student in the Faculty of Computer Science at Dalhousie University, Canada under the guidance of Dr. Masud Rahman. Currently, I’m focused on building bug localization and reproduction systems for Machine Learning and Deep Learning bugs at RAISE Lab.
 
-I am a B.Tech Computer Science graduate from Manipal University Jaipur and have previously worked as a Research Intern at ISRO, as a part of Communication Systems Group under Dr. Yogesh Prasad. I have experience working with different languages and frameworks and I am always looking to learn something new and work on new projects in my free time.
-
-Some of my key skills include - Java, Spring Boot, React, Angular, Node.js, Express, C++ and Python.
-
-And, last but not the least, I'm an avid chess player, love swimming and I usually spend my free time, trying to learn something new.
+My research interests include: Bug Localization, Bug Reproduction, Machine Learning, Deep Learning, Reinforcement Learning. Please feel free to reach out to me at my email, if you have any questions or want to discuss about any potential research projects.
